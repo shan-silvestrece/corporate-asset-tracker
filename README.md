@@ -30,7 +30,7 @@ The **Enterprise Corporate Asset Tracker** is a Django-based web application des
 <img width="1913" height="629" alt="Finance Exective Dashboard" src="https://github.com/user-attachments/assets/dd285098-8150-4bbe-9c18-d73bf0a14891" />
 </p>
 
-## Asset Inventory with Pagination
+## Asset Inventory with CSV Export and Pagination
 <p align="center">
 <img width="1447" height="730" alt="Asset Inventory with Export CSV and Pagination" src="https://github.com/user-attachments/assets/48771549-9152-41a8-86a7-fafb1abba1ba" />
 </p>
